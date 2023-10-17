@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio1-react/static/css/main.6fbd7989.css",
+    "main.js": "/portfolio1-react/static/js/main.f8ac7ab2.js",
+    "static/js/787.b2e1b36e.chunk.js": "/portfolio1-react/static/js/787.b2e1b36e.chunk.js",
+    "static/media/iti-ecommerce.png": "/portfolio1-react/static/media/iti-ecommerce.d5e542123d4e969fc7bc.png",
+    "static/media/gawish.jpg": "/portfolio1-react/static/media/gawish.f2c423ae0a4ff36bdb87.jpg",
+    "static/media/portfolio-compny.png": "/portfolio1-react/static/media/portfolio-compny.ef143cf126a49ae69fb8.png",
+    "static/media/AhmedGawish.pdf": "/portfolio1-react/static/media/AhmedGawish.7fcadb6ee7a2c70b2077.pdf",
+    "static/media/ecommerce-pharmacy-min.png": "/portfolio1-react/static/media/ecommerce-pharmacy-min.b95504c1f7b5f7ce1780.png",
+    "static/media/final-project.png": "/portfolio1-react/static/media/final-project.251edd018bae3fd0a2dc.png",
+    "static/media/work4.jpg": "/portfolio1-react/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/portfolio1-react/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work3.jpg": "/portfolio1-react/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/testimonial1.png": "/portfolio1-react/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/portfolio1-react/index.html",
+    "main.6fbd7989.css.map": "/portfolio1-react/static/css/main.6fbd7989.css.map",
+    "main.f8ac7ab2.js.map": "/portfolio1-react/static/js/main.f8ac7ab2.js.map",
+    "787.b2e1b36e.chunk.js.map": "/portfolio1-react/static/js/787.b2e1b36e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fbd7989.css",
+    "static/js/main.f8ac7ab2.js"
+  ]
+}
